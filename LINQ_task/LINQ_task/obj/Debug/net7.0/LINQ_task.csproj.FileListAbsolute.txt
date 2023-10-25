@@ -1,0 +1,4 @@
+C:\Users\farho\source\repos\LINQ_task\LINQ_task\obj\Debug\net7.0\LINQ_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farho\source\repos\LINQ_task\LINQ_task\obj\Debug\net7.0\LINQ_task.AssemblyInfoInputs.cache
+C:\Users\farho\source\repos\LINQ_task\LINQ_task\obj\Debug\net7.0\LINQ_task.AssemblyInfo.cs
+C:\Users\farho\source\repos\LINQ_task\LINQ_task\obj\Debug\net7.0\LINQ_task.csproj.CoreCompileInputs.cache
